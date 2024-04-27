@@ -140,6 +140,11 @@ initramfs, as follows:
 
      mkinitcpio -p linux
 
+How to use the module with current kernels (4.x.x - 6.x.x)
+----------------------------------------------------------
+
+WIP
+
 See also
 --------
 
@@ -155,7 +160,7 @@ Categories:
 -   Graphics
 -   X Server
 
--   This page was last modified on 14 July 2013, at 08:34.
+-   This page was last modified on 27 April 2023 (27/4/2023 GMT+7), at 11:43 GMT+7
 -   Content is available under GNU Free Documentation License 1.3 or
     later unless otherwise noted.
 -   Privacy policy
